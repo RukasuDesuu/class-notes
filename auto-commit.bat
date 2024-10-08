@@ -1,5 +1,4 @@
 git add *
-$date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-git commit -m "auto-commit $(date)"
+git commit -m "auto-commit `date +%F-%T`"
 git push
 end
