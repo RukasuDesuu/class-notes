@@ -1,5 +1,11 @@
+@echo off
+
 git add *
-today=`date '+%Y_%m_%d_%H_%M_%S'`
-git commit -m "auto-commit $today"
+
+for /f "tokens=1-5 delims=:" %%d in ("%date%:%time%") do (
+    set today=%%d_%%e_%%f_%%g_%%h
+)
+
+git commit -m "auto-commit %today%"
+
 git push
-end
