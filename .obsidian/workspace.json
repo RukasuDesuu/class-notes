@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
+                "file": "6º Semestre/2024-10-07 Eletrônica de Potência.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
+                "file": "6º Semestre/2024-10-07 Eletrônica de Potência.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
+                "file": "6º Semestre/2024-10-07 Eletrônica de Potência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md"
+                "file": "6º Semestre/2024-10-07 Eletrônica de Potência.md"
               }
             }
           },
@@ -156,22 +156,26 @@
   },
   "active": "2e85133dded41e9a",
   "lastOpenFiles": [
-    "Dimensionamento de Fio.md",
-    "6º Semestre/2024-12-09 Avaliacao Instalações Elétricas Industriais.md",
-    "6º Semestre/Materias/Instalações Elétricas Industriais.md",
+    "Pasted image 20241007215204.png",
     "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
-    "2024-10-07.md",
-    "files/Pasted image 20241007183624.png",
-    "6º Semestre/2025-02-17 Projeto Instalações Elétricas Industriais.md",
     "6º Semestre/Materias/Eletrônica de Potência.md",
+    "6º Semestre/files/Pasted image 20241007183624.png",
+    "6º Semestre/2024-10-07 Eletrônica de Potência.md",
+    "6º Semestre/Materias/Instalações Elétricas Industriais.md",
     "Untitled.canvas",
+    "6º Semestre/Materias/Economia.md",
+    "6º Semestre/2024-12-09 Avaliacao Instalações Elétricas Industriais.md",
+    "6º Semestre/2025-02-24 Avaliação 3 Eletrônica de Potência.md",
+    "6º Semestre/2025-01-20 Avaliação 2 Eletrônica de Potência.md",
+    "6º Semestre/2024-11-25 Avaliação 1 Eletrônica de Potência.md",
+    "Dimensionamento de Fio.md",
+    "6º Semestre/2025-02-17 Projeto Instalações Elétricas Industriais.md",
     "6º Semestre/Materias/Ciência, Tecnologia e Sociedade.md",
     "6º Semestre/Materias",
     "6º Semestre/Materias/Microcontroladores.md",
     "6º Semestre/Materias/Hidráulica e Pneumática.md",
     "6º Semestre/Materias/Conversão de Energia II.md",
     "6º Semestre/Materias/Laboratório de Sistemas de Controle I.md",
-    "6º Semestre/Materias/Economia.md",
     "6º Semestre/Materias/Sistemas de Controle I.md",
     "6º Semestre/Instalacao 2024-10-07.md",
     "6º Semestre/2024-10-07 a.md",
@@ -182,15 +186,12 @@
     "5º Semestre/Eletrônica Analógica III/Tipos de Amplificadores.md",
     "5º Semestre/Eletrônica Analógica III/Estudo P2.md",
     "5º Semestre/Eletrônica Analógica III/Estudo - Listas.md",
-    "5º Semestre/Conversão de Energia/Resolução.md",
-    "5º Semestre/Conversão de Energia/Regulação de Tensão.md",
-    "5º Semestre/Conversão de Energia/Lista de formulas para P1.md",
     "files/Pasted image 20240815095629.png",
     "files/Pasted image 20240814155727.png",
     "files/Pasted image 20240814160057.png",
     "files/Pasted image 20240814155944.png",
     "files/Pasted image 20240814161436.png",
-    "files",
+    "6º Semestre/files",
     "5º Semestre/Conversão de Energia"
   ]
 }
