@@ -11,8 +11,12 @@
             "id": "8572826e5ec53c4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6º Semestre/Materias/Laboratório de Sistemas de Controle I.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6º Semestre/Materias/Laboratório de Sistemas de Controle I.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6º Semestre/Materias/Laboratório de Sistemas de Controle I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6º Semestre/Materias/Laboratório de Sistemas de Controle I.md"
+              }
             }
           },
           {
@@ -148,7 +156,13 @@
   },
   "active": "8572826e5ec53c4f",
   "lastOpenFiles": [
+    "6º Semestre/2024-10-09 Laboratório de Sistemas de Controle I.md",
     "6º Semestre/2024-10-09 Conversão de Energia II.md",
+    "6º Semestre/Materias/Conversão de Energia II.md",
+    "Fundamentos de maquinas eletricas (Stephen J. Chapman) (Z-Library).pdf",
+    "6º Semestre/2025-02-26 Avaliação 3 Conversão de Energia II.md",
+    "6º Semestre/2025-01-29 Avaliação 2 Conversão de Energia II.md",
+    "6º Semestre/2024-12-04 Avaliação 1 Conversão de Energia II.md",
     "6º Semestre/2024-10-08 Economia.md",
     "6º Semestre/Materias/Sistemas de Controle I.md",
     "6º Semestre/2024-10-08 Sistema de Controle I.md",
@@ -169,7 +183,6 @@
     "Novo(a) Documento de Texto.txt",
     "6º Semestre/Materias/Hidráulica e Pneumática.md",
     "6º Semestre/Materias/Ciência, Tecnologia e Sociedade.md",
-    "6º Semestre/Materias/Conversão de Energia II.md",
     "6º Semestre/Materias/Economia.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
@@ -179,11 +192,7 @@
     "6º Semestre/files/Pasted image 20241007215204.png",
     "6º Semestre/files/Pasted image 20241007183624.png",
     "6º Semestre/Materias/Instalações Elétricas Industriais.md",
-    "6º Semestre/2024-11-25 Avaliação 1 Eletrônica de Potência.md",
-    "Dimensionamento de Fio.md",
     "6º Semestre/Materias",
-    "6º Semestre/Instalacao 2024-10-07.md",
-    "6º Semestre/2024-10-07 a.md",
     "6º Semestre",
     "files/Pasted image 20240815095629.png",
     "files/Pasted image 20240814155727.png",
