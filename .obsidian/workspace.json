@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "725a3309d5bde0bf",
+        "id": "3ea7e4dc8d48502b",
         "type": "tabs",
         "children": [
           {
-            "id": "8572826e5ec53c4f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "74e44d9372b41003",
+            "id": "796dcf202eeeb72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6º Semestre/2024-10-10 Laboratório de Sistema de Controles.md",
+                "file": "6º Semestre/2024-10-16 Laboratório de Sistemas de Controle I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6º Semestre/2024-10-10 Laboratório de Sistema de Controles.md",
+                "file": "6º Semestre/2024-10-16 Laboratório de Sistemas de Controle I.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6º Semestre/2024-10-10 Laboratório de Sistema de Controles.md",
+                "file": "6º Semestre/2024-10-16 Laboratório de Sistemas de Controle I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6º Semestre/2024-10-10 Laboratório de Sistema de Controles.md"
+                "file": "6º Semestre/2024-10-16 Laboratório de Sistemas de Controle I.md"
               }
             }
           },
@@ -163,8 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74e44d9372b41003",
+  "active": "796dcf202eeeb72d",
   "lastOpenFiles": [
+    "Pasted image 20241016213440.png",
+    "Projeto Controle Posição.md",
+    "6º Semestre/2024-10-16 Laboratório de Sistemas de Controle I.md",
+    "6º Semestre/2024-10-16 Conversão de Energia II.md",
+    "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
+    "6º Semestre/2024-10-11 Hidráulica e Pneumática.md",
+    "6º Semestre/2024-10-11 Ciência, Tecnologia e Sociedade.md",
     "6º Semestre/2024-10-08 Microcontroladores.md",
     "6º Semestre/2024-10-10 Laboratório de Sistema de Controles.md",
     "6º Semestre/2024-10-10 Microcontroladores.md",
@@ -185,17 +183,10 @@
     "6º Semestre/2024-12-12 Avaliação 1 Microcontroladores.md",
     "6º Semestre/2024-10-07 Eletrônica de Potência.md",
     "6º Semestre/2025-02-17 Projeto Instalações Elétricas Industriais.md",
-    "6º Semestre/2025-01-20 Avaliação 2 Eletrônica de Potência.md",
-    "6º Semestre/2024-12-09 Avaliacao Instalações Elétricas Industriais.md",
-    "6º Semestre/2024-10-07 Instalações Elétricas Industriais.md",
-    "6º Semestre/2025-02-24 Avaliação 3 Eletrônica de Potência.md",
     "auto-commit.xml",
     "auto-commit.bat",
     "auto-commit.txt",
     "Novo(a) Documento de Texto.txt",
-    "6º Semestre/Materias/Hidráulica e Pneumática.md",
-    "6º Semestre/Materias/Ciência, Tecnologia e Sociedade.md",
-    "6º Semestre/Materias/Economia.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
