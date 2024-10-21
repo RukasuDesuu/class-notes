@@ -27,26 +27,19 @@ $$M_F = \frac{(P1+PJ)}{2}+A_{ex}$$
 
 #### Responda
 ###### 1. Como deve ser um planejamento para iluminar um determinado ambiente?
- R: O planejamento para iluminar um determinado ambiente deve considerar os seguintes aspectos:
-    - Identificação do tipo de ambiente e suas atividades principais.
-    - Determinação dos níveis de iluminância adequados conforme normas técnicas (ex: NBR ISO/CIE 8995-1).
-    - Escolha das fontes de luz e luminárias adequadas, considerando eficiência energética e conforto visual.
-    - Distribuição das luminárias de forma a garantir uniformidade da iluminação e evitar sombras ou ofuscamento.
-    - Consideração de aspectos estéticos e arquitetônicos do ambiente.
-    - Implementação de sistemas de controle de iluminação, como sensores de presença e dimmers, para otimização do consumo energético.
+ R:
+ Para planejar a iluminação de um ambiente, o primeiro passo é entender qual o tipo de ambiente e quais atividades principais acontecem nele. Isso ajuda a definir a quantidade de luz necessária. Em seguida, é importante seguir as normas técnicas, como a NBR ISO/CIE 8995-1, que orientam os níveis adequados de iluminância. Depois, é preciso escolher as luminárias e lâmpadas certas, que sejam eficientes em termos de energia e ofereçam conforto visual.
+
+A distribuição das luminárias também é essencial, para que a luz fique uniforme, sem criar sombras ou ofuscamento. Além disso, é bom considerar o design e a estética do espaço, garantindo que a iluminação combine com a arquitetura. Por fim, usar sistemas de controle como sensores de presença ou dimmers ajuda a economizar energia, ajustando a iluminação conforme necessário.
 
 ###### 2. Quais os procedimentos para a verificação da iluminância?
- R: Os procedimentos para a verificação da iluminância incluem:
-    - Utilização de um luxímetro para medir os níveis de iluminância em diferentes pontos do ambiente.
-    - Comparação dos valores medidos com os níveis recomendados pelas normas técnicas.
-    - Realização de medições em diferentes horários do dia para avaliar a influência da luz natural.
-    - Verificação da uniformidade da iluminação, garantindo que não haja grandes variações nos níveis de iluminância.
-    - Ajustes nas luminárias ou na disposição das fontes de luz, se necessário, para atender aos requisitos normativos.
+ R: 
+ Para verificar se a iluminância (ou seja, a quantidade de luz) está adequada em um ambiente, você pode usar um luxímetro, que é um aparelho que mede a luz em diferentes pontos do local. Depois, é só comparar os valores com os recomendados nas normas técnicas. É interessante medir em vários momentos do dia, para ver como a luz natural influencia o ambiente.
+
+Também é importante checar se a iluminação está bem distribuída, sem variações muito grandes entre os pontos. Se precisar, ajustes podem ser feitos nas luminárias ou na disposição delas para garantir que tudo fique dentro do padrão.
 
 ###### 3. Como deve ser feita a iluminação de estações de trabalho com monitores? Em áreas de tarefa e entorno imediato, como deve ser verificada a iluminância?
- R: A iluminação de estações de trabalho com monitores deve ser feita considerando:
-    - Evitar reflexos e ofuscamento nas telas dos monitores, posicionando as luminárias de forma adequada.
-    - Utilização de luminárias com difusores ou filtros para suavizar a luz.
-    - Garantia de níveis de iluminância adequados tanto na área de tarefa (superfície de trabalho) quanto no entorno imediato.
-    - Medição da iluminância com um luxímetro para assegurar que os níveis estejam dentro dos padrões recomendados.
-    - Ajuste da iluminação conforme necessário para proporcionar um ambiente confortável e produtivo para os usuários.
+ R: 
+ Quando se trata de estações de trabalho com monitores, a iluminação precisa ser pensada de modo a evitar reflexos ou brilho excessivo nas telas. Posicionar as luminárias corretamente e usar luminárias com difusores ou filtros ajuda a suavizar a luz, tornando o ambiente mais confortável. É fundamental garantir que a área de trabalho e o entorno imediato tenham os níveis certos de iluminância.
+
+Isso pode ser medido com um luxímetro, ajustando a iluminação conforme necessário para proporcionar um ambiente que favoreça tanto o conforto quanto a produtividade.
