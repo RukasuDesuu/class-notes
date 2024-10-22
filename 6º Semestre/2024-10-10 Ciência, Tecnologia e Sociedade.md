@@ -1,2 +1,0 @@
-# [[Ciência, Tecnologia e Sociedade]]
-
